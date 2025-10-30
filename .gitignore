@@ -1,0 +1,5 @@
+.env
+.vscode/settings.json
+scripts/test.ipynb
+scripts/milestone_3.py
+scripts/milestone_3.pdf
